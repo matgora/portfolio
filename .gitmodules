@@ -1,3 +1,6 @@
 [submodule "JointBERT"]
 	path = JointBERT
 	url = https://github.com/matgora/JointBERT
+[submodule "transfermarkt_analysis"]
+	path = transfermarkt_analysis
+	url = https://github.com/matgora/PAD_PROJEKT
