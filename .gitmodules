@@ -4,3 +4,6 @@
 [submodule "transfermarkt_analysis"]
 	path = transfermarkt_analysis
 	url = https://github.com/matgora/transfermarkt_analysis
+[submodule "tt-spark-nlp"]
+	path = tt-spark-nlp
+	url = https://github.com/matgora/tt-spark-nlp
